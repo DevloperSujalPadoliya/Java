@@ -21,5 +21,12 @@ public class classOne {
         // this is use to long number and the last added "L"
         long num4 = 1234567891012l;
         System.out.println(num4);
+
+          // this is use to long number and the last added "F"
+        float num5 = 1.2f;
+        System.out.println(num5);
+
+        boolean num6 = 5>=5;
+        System.out.println(num6);
     }
 }
